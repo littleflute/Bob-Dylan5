@@ -1,6 +1,6 @@
 var f = [];				
-f[0]	= "v0.1.9";			
-f[1]	= "01 She Belongs to Me [Live][Live From Sydney 4-13-66].mp3";		
+f[0]	= "v0.2.9";			
+f[1]	= "01 Tell Me, Momma [Live][Live From Cardiff 5-11-66].mp3";		
 f[2]	= "02 Off on Your Own (Girl).mp3";		
 f[3]	= "03 Down to the Nightclub.mp3";		
 f[4]	= "04 Doo Wa Ditty (Blow That Thing).mp3";		
